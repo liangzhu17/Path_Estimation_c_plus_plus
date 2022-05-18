@@ -8,7 +8,7 @@ Standards: C++20
 
 Started on: 10. April. 2022; Finished on: 12. May. 2022
 
-These programs are about my thesis "Investigation of probabilistic Multi-Object Tracking methods for vehicle tracking in aerial observations".
+These programs are about my master thesis "Investigation of probabilistic Multi-Object Tracking methods for vehicle tracking in aerial observations".
 
 This program was originally done in python, but I rewrite part of it in C++ out of interest. Please see my python version for more information.
 
